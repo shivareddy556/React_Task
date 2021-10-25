@@ -1,0 +1,213 @@
+.content1 {
+    border: 1px solid gray;
+    width: 300px;
+    height: 600px;
+    border-radius:  20px;
+    background-color: grey;
+    margin: 2pc;
+    
+    /* border: none; */
+    /* margin-top: 5pc; */
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  .btn {
+    background-color: blue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  
+  /* .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  } */
+  
+  
+  .container {
+    padding: 4px;
+    border-radius: 10px;
+  }
+  
+  a,span.psw {
+     
+    margin-right:8pc ;
+    
+  
+  }
+  .together{
+      margin-top: 6pc;
+      margin-right: 5pc;
+      color: blue;
+
+  }
+  .styl{
+    color: blue;
+  }
+  .pws{
+      color: blue;
+  }
+  .join{
+      color: blue;
+      margin-right: 5pc;
+  }
+  .forms{  
+    width: 298px;
+    height: 387px;
+    background-color: white;
+    border-radius:20px;
+    
+  }
+  .Rememberme{
+      margin-right: 8pc;
+  }
+  .styls{
+      margin-right: 1pc;
+      margin-top: 2pc;
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  /* @media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 100%;
+    }
+  } */
+.content {
+    border: 1px solid gray;
+    width: 300px;
+    height: 600px;
+    margin: 2pc;
+    border-radius:  20px;
+    background-color: grey;
+    
+    margin-top: 5pc;
+}
+.class{
+    width: 298px;
+    height: 486px;
+    background-color: white;
+    border-radius:20px;
+    border: none;
+}
+
+.btns{
+    width: 33%;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: large;
+    font: bold;
+
+}
+input{
+    margin-top: 0pc;
+    border: none;
+    padding-left: 65px;
+    
+}
+.id{
+    width: 100%;
+    height: 50px;
+    border: none;
+}
+.margin{
+    margin-top: 7pc;
+}
+.style1{
+    margin-right: 140px 
+}
+.style2{
+    margin-right: 105px
+}
+.style3{
+    margin-top: 25px
+}
+.style4{
+    /* width: 85%;
+     margin : 10px;
+      background-color: blue;
+       border-radius: 10px;
+        color: white;
+         margin-top : 32px; */
+         background-color: blue;
+         color: white;
+         padding: 14px 20px;
+         margin: 8px 0;
+         border: none;
+         cursor: pointer;
+         width: 90%;
+         border-radius: 10px;
+}
+.style5{
+    margin-top: 32px
+}
+.style6{
+    color:blue;
+    
+      
+      
+}
+.sty{
+    background-color: rgb(43, 137, 226);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+    border-radius: 10px;
+}
+.pass{
+    border: none;
+}
+.margins{
+    margin-top:5pc ;
+}
+.class1{
+    width: 298px;
+    height: 518px;
+    background-color: white;
+    border-radius:20px;
+    border: none;
+}
+.Resend{
+    margin-top: 25px;
+}
+
+.smartphone1{
+    display: flex;
+    margin-left: 10pc;
+    margin-top: 5pc;
+}
+@media screen and (max-width:640px){
+    .smartphone1{
+        display: inline;
+    }
+    .forms{  
+        width: 298px;
+        height: 400px;
+        background-color: white;
+        border-radius:20px;
+        
+      }
+}
+
+
